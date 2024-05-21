@@ -36,7 +36,7 @@ Throughout my university years, I have actively pursued my interests, especially
 
 ## Extracurricular Activities
 
-1. IC design camp
+1. IC design camp  
     在參加了由中原電子所舉辦的IC設計營隊後，我對IC設計有了更深入的了解。這個營隊涵蓋了以下幾個重要環節：
 
 1. **電路設計 (Virtuoso)**
