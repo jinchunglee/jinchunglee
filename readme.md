@@ -37,4 +37,15 @@ Throughout my university years, I have actively pursued my interests, especially
 ## Extracurricular Activities
 
 1. IC design camp
-2. 
+    在參加了由中原電子所舉辦的IC設計營隊後，我對IC設計有了更深入的了解。這個營隊涵蓋了以下幾個重要環節：
+
+1. **電路設計 (Virtuoso)**
+2. **電路模擬 (Hspice)**
+3. **Layout設計 (Laker/Virtuoso)**
+4. **Calibre驗證 (DRC/LVS/PEX)**
+
+![IC Design](https://via.placeholder.com/150)
+
+這個活動讓我對於Full Custom Design有了一個大致的了解，學會了製成檔的意義及如何操作相關的設計軟體。
+2. 予新科技VLSI實習課程
+    我在
