@@ -44,7 +44,7 @@ Throughout my university years, I have actively pursued my interests, especially
     3. **Layout設計 (Laker/Virtuoso)**
     4. **Calibre驗證 (DRC/LVS/PEX)**
 
-![test](images/103330503_musk3.jpg)
+![test](./images/103330503_musk3.jpg)
 
 這個活動讓我對於Full Custom Design有了一個大致的了解，學會了製成檔的意義及如何操作相關的設計軟體。  
 2. 予新科技VLSI實習課程
