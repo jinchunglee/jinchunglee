@@ -2,7 +2,7 @@
 
 
 ## CV
-Hello, my name is Jin-Cheng Lee. I am currently a junior majoring in Electrical Engineering at Chung Yuan Christian University. I hail from Keelung, and my father works at Dell Computers, while my mother is a homemaker. During my junior high school years, my father introduced me to the world of wireless communications by gifting me an Arduino developer kit, sparking my curiosity and passion for the field.
+Hello, my name is Jin-Cheng Lee. I am currently a junior majoring in Electrical Engineering at Chung Yuan Christian University. I hail from Keelung, and my father works at Dell Inc., while my mother is a homemaker. During my junior high school years, my father introduced me to the world of wireless communications by gifting me an Arduino developer kit, sparking my curiosity and passion for the field.
 
 
 ## Research Experience 
@@ -47,5 +47,6 @@ Throughout my university years, I have actively pursued my interests, especially
 ![test](images/IC_design.png)
 
 這個活動讓我對於Full Custom Design有了一個大致的了解，學會了製成檔的意義及如何操作相關的設計軟體。  
+
 2. 予新科技VLSI實習課程
-    在我參加過IC design營隊後，我對於IC設計有極大的興趣，所以就加入中原大學電子系鍾文耀 教授 所開授的課程。此課程是與予新科技合作，主要是學習業界實際的布局方式
+    在我參加過IC design營隊後，我對於IC設計有極大的興趣，所以就加入中原大學電子系鍾文耀 教授 所開授的課程。此課程是與予新科技合作，主要是學習業界實際的布局方式。
