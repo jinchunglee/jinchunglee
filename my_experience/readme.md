@@ -46,3 +46,6 @@ Throughout my university years, I have actively pursued my interests, especially
 
 3. 龜山生態展
     此外，我還積極參與了許多與地方文化相關的活動。這些活動包括瞭解桃園的在地文化、探索洋樓的歷史以及欣賞傳統歌仔戲。我還有幸採訪了臺灣歌仔戲首席乾旦，通過這些經歷，我對舊文化的保存與新文化的影響有了更深的興趣。
+
+4. 5G產業新星計畫
+    在這個計畫中我用NVIDIA  Jestson nano來做串流影像的辨識。
