@@ -152,33 +152,31 @@ q_new = q_old - α * J^T * e
 平滑插值算法用於計算機械手臂的旋轉軌跡，確保運動過程的平滑性和連貫性。具體步驟如下：
 
 1. **旋轉矩陣 \(R\)**：
-   \[
-   R = \begin{bmatrix}
-   \cos \theta & -\sin \theta & 0 \\
-   \sin \theta & \cos \theta & 0 \\
-   0 & 0 & 1
-   \end{bmatrix} \quad \text{(1-1)}
-   \]
-   其中，\(\theta\) 是旋轉角度。
+   ```
+   R = [
+       [cos(θ), -sin(θ), 0],
+       [sin(θ),  cos(θ), 0],
+       [     0,       0, 1]
+   ]
+   ```
 
 2. **位移矩陣 \(A\)**：
-   \[
-   A = \begin{bmatrix}
-   x_{\text{shift}} \\
-   y_{\text{shift}} \\
-   z_{\text{shift}}
-   \end{bmatrix} \quad \text{(1-2)}
-   \]
-   其中，\(x_{\text{shift}}, y_{\text{shift}}, z_{\text{shift}}\) 是經過位移後的座標。
+   ```
+   A = [
+       [x_shift],
+       [y_shift],
+       [z_shift]
+   ]
+   ```
 
 3. **初始位置矩陣 \(B\)**：
-   \[
-   B = \begin{bmatrix}
-   x_0 \\
-   y_0 \\
-   z_0
-   \end{bmatrix} \quad \text{(1-3)}
-   \]
+   ```
+   B = [
+       [x_0],
+       [y_0],
+       [z_0]
+   ]
+   ```
 
 利用公式 \(B = -RA\) 不斷迭代回推座標，直到座標為初始座標為止。其中，\(A\) 矩陣為經過位移後的座標，\(B\) 矩陣為初始座標，\(R\) 為三維空間之旋轉矩陣。
 
