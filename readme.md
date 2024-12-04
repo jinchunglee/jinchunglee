@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub!
 
-[Explore My Projects](https://jinchunglee.github.io/JinChengLeeWeb.github.io) | [Follow Me on GitHub](https://github.com/jinchunglee)  
+[Explore My Projects](https://jinchunglee.github.io/JinChengLeeWeb.github.io/) | [Follow Me on GitHub](https://github.com/jinchunglee)  
 Currently diving into exciting open-source projects and innovative tech stacks.
 
 </div>
@@ -13,8 +13,8 @@ Currently diving into exciting open-source projects and innovative tech stacks.
 
 - 🎓 Passionate about technology, currently exploring **AI**, **Blockchain**, and **Cloud Computing**.
 - 💼 Working on impactful projects in **IoT** and **Open Source Software**.
-- 📧 Reach out: [jameslee9168@gmail.com](jameslee9168@gmail.com)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Reach out: [jameslee9168@gmail.com](mailto:jameslee9168@gmail.com)
+- 🌐 Portfolio: [jinchunglee.github.io](https://jinchunglee.github.io/JinChengLeeWeb.github.io/)
 
 ---
 
@@ -45,19 +45,19 @@ Currently diving into exciting open-source projects and innovative tech stacks.
 <div align="center">
 
 ### 📈 Activity Overview
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jinchunglee&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jinchunglee&theme=radical&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🚀 Contributions
-![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
+![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=jinchunglee&theme=react-dark&hide_border=true&area=true)
 
 ### 📊 Coding Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinchunglee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📃 Detailed Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinchunglee&show_icons=true&theme=radical)](https://github.com/jinchunglee)
 
 </div>
 
@@ -82,6 +82,6 @@ Currently diving into exciting open-source projects and innovative tech stacks.
 <div align="center">
 
 ### 🚀 Explore. Innovate. Collaborate.  
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)](https://github.com/yourusername)
+[![Profile Views](https://komarev.com/ghpvc/?username=jinchunglee&color=brightgreen)](https://github.com/jinchunglee)
 
 </div>
