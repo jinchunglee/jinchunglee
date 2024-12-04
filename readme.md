@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub!
 
-[Explore My Projects](https://yourwebsite.com) | [Follow Me on GitHub](https://github.com/yourusername)  
+[Explore My Projects](https://jinchunglee.github.io/JinChengLeeWeb.github.io) | [Follow Me on GitHub](https://github.com/jinchunglee)  
 Currently diving into exciting open-source projects and innovative tech stacks.
 
 </div>
@@ -13,7 +13,7 @@ Currently diving into exciting open-source projects and innovative tech stacks.
 
 - 🎓 Passionate about technology, currently exploring **AI**, **Blockchain**, and **Cloud Computing**.
 - 💼 Working on impactful projects in **IoT** and **Open Source Software**.
-- 📧 Reach out: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Reach out: [jameslee9168@gmail.com](jameslee9168@gmail.com)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
