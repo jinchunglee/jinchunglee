@@ -50,8 +50,6 @@ Currently diving into exciting open-source projects and innovative tech stacks.
 ### 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=jinchunglee&theme=radical&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🚀 Contributions
-![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=jinchunglee&theme=react-dark&hide_border=true&area=true)
 
 ### 📊 Coding Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinchunglee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
